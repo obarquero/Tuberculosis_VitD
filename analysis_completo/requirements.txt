@@ -1,0 +1,45 @@
+# =============================================================================
+# requirements.txt — Pipeline TB bovina (validado en Python 3.12)
+# Instalación:  pip install -r requirements.txt
+# Versiones exactas con las que se ejecutaron y validaron los 3 notebooks.
+# =============================================================================
+
+# --- Núcleo científico ---
+numpy==2.4.4
+pandas==3.0.2
+scipy==1.15.3
+
+# --- Modelado y métricas ---
+scikit-learn==1.8.0
+xgboost==3.2.0
+statsmodels==0.14.6          # E-value (logit ajustado), tests
+
+# --- Interpretabilidad ---
+shap==0.51.0                 # SHAP global/local (TreeExplainer)
+# PDP/ALE e importancia por permutación: incluidos en scikit-learn
+
+# --- Causalidad observacional ---
+dowhy==0.14                  # DAG, backdoor, refutaciones
+
+# --- Predicción conforme ---
+mapie==1.4.0                 # API 1.x: Split/CrossConformalClassifier/Regressor
+
+# --- Visualización ---
+matplotlib==3.10.8
+seaborn==0.13.2
+
+# --- Ejecución de notebooks (opcional, solo para re-ejecutar/exportar) ---
+nbformat==5.10.4
+nbconvert==7.17.1
+ipykernel==7.2.0
+
+# -----------------------------------------------------------------------------
+# NOTAS DE COMPATIBILIDAD
+# - MAPIE 1.x cambió la API respecto a 0.x:
+#     * Clasificación binaria: solo conformity_score='lac' (APS es multiclase).
+#     * Cross/SplitConformalClassifier -> fit_conformalize(...) -> predict_set(X)
+#       devuelve (y_pred, y_set) con y_set de forma (n, n_clases, n_niveles).
+#     * Regresión -> predict_interval(X) con forma (n, 2, n_niveles).
+# - XGBoost multiclase requiere clases contiguas 0..K-1 (recodificar Score {0,1,2,4,5}).
+# - No se requiere pyarrow/parquet: los intercambios de datos se hacen en CSV.
+# -----------------------------------------------------------------------------

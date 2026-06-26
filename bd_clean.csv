@@ -1,0 +1,104 @@
+Ide,Expl,Lesiones,Localizacion,Lesiones_TB,Patron_lesiones,Score_lesional,PIROPLASMA,THEILERIA,ANAPLASMA,VITAMINA_D,CALCIO,PIROPLASMA_Q,EDAD,SEXO,RAZA,IDTC,PIROPLASMA_Q_log,RAZA2,Patron_lesiones_3
+219743218,VC30D,Lesão caseosa,Pulmonar + linfodonos retrofaríngeos,1,1,4,1.0,0.0,0.0,30.095327,0.92587008,4386.325854,3,F,Cruzado,23,8.386475175590386,Cruzado,1
+19141978,VC30D,Não apresentava lesões,Sem lesão,0,-1,0,1.0,1.0,1.0,28.80980487,0.925329711,5121.251766,4,F,Cruzado,6,8.541349419397614,Cruzado,-1
+419913399,VC30D,Lesão,Linfonodos retrofaríngeos,1,0,1,0.0,0.0,1.0,16.12451703,0.916724423,0.0,3,F,Cruzado,18,0.0,Cruzado,0
+314429794,VC30D,Lesão caseosa,Linfonodos mediastinicos,1,0,2,1.0,0.0,1.0,25.56130734,0.907462712,3869.100402,11,F,Cruzado,23,8.261035729356546,Cruzado,0
+17717137,VC30D,Não apresentava lesões,Sem lesão,0,-1,0,1.0,0.0,1.0,17.30227352,0.943349699,5775.378886,6,F,Cruzado,13,8.661532275027946,Cruzado,-1
+719743225,VC30D,Não apresentava lesões,Sem lesão,0,-1,0,1.0,1.0,1.0,48.02582612,0.944695838,1448.939824,3,F,Cruzado,7,7.279277333863788,Cruzado,-1
+817745858,VC30D,Lesão,Linfonodos retrofaríngeos,1,0,1,1.0,1.0,1.0,16.81240338,0.93743571,1392.702508,6,F,Cruzado,6,7.239719159650285,Cruzado,0
+119648207,VC30D,Lesão,Linfonodos retrofaríngeos,1,0,1,0.0,0.0,0.0,30.97222733,0.915380037,0.0,3,F,Alentejana,6,0.0,Alentejana,0
+218482590,VC30D,Lesão,Linfonodos retrofaríngeos,1,0,1,1.0,0.0,0.0,27.11073867,0.929903313,17152.95305,9,F,Cruzado,8,9.749983924575652,Cruzado,0
+519144252,VC30D,Não apresentava lesões,Sem lesão,0,-1,0,1.0,0.0,0.0,22.1153494,0.910537253,3467.545513,4,F,Cruzado,5,8.151490624549847,Cruzado,-1
+217841428,VC30D,Não apresentava lesões,Sem lesão,0,-1,0,1.0,0.0,1.0,25.70068836,0.948513045,7058.8544,1,F,Cruzado,6,8.862179707045165,Cruzado,-1
+18487848,VC30D,Lesão,Linfonodos retrofaríngeos,1,0,1,1.0,0.0,0.0,19.10875823,0.901424759,8853.358347,5,F,Cruzado,21,9.088665085366689,Cruzado,0
+714430403,VC30D,Não apresentava lesões,Sem lesão,0,-1,0,1.0,1.0,1.0,32.20735286,0.921046211,2220.647511,12,F,Cruzado,6,7.706004321701976,Cruzado,-1
+415219709,VC30D,Não apresentava lesões,Sem lesão,0,-1,0,1.0,0.0,1.0,19.16078564,0.901424759,1658.125303,11,F,Cruzado,8,7.4140458165727345,Cruzado,-1
+514369544,VC30D,Não apresentava lesões,Sem lesão,0,-1,0,1.0,1.0,1.0,13.09467653,0.941571359,1404.814116,11,F,Cruzado,11,7.248371855949038,Cruzado,-1
+615144543,VC30D,Lesão,Linfonodos retrofaríngeos,1,0,1,1.0,1.0,1.0,31.17345016,0.91319786,1714.486367,11,F,Cruzado,22,7.447451915312686,Cruzado,0
+519945309,VC30D,Não apresentava lesões,Sem lesão,0,-1,0,1.0,1.0,1.0,23.68750695,0.897501156,4898.393736,2,F,Alentejana,6,8.49686674909692,Alentejana,-1
+418482594,VC30D,Não apresentava lesões,Sem lesão,0,-1,0,1.0,1.0,1.0,31.85896366,0.916455924,2043.711602,5,F,Cruzado,5,7.623012032614942,Cruzado,-1
+617748268,VC30D,Não apresentava lesões,Sem lesão,0,-1,0,1.0,1.0,0.0,17.00027935,0.873352377,3444.289216,6,F,Cruzado,14,8.14476313231873,Cruzado,-1
+765084273,VC30D,Lesão,Linfonodos retrofaríngeos,1,0,1,1.0,1.0,1.0,18.14664647,0.921027978,506.1109506,14,F,Cruzado,15,6.2287298171251,Cruzado,0
+19742663,VC30D,Lesão,Linfonodos retrofaríngeos,1,0,1,1.0,0.0,0.0,21.47874359,0.887944927,3361.961923,3,F,Cruzado,26,8.12057738934492,Cruzado,0
+19743153,VC30D,Lesão,Linfonodos retrofaríngeos,1,0,1,1.0,0.0,1.0,15.24832676,0.918069753,10864.47979,3,F,Cruzado,26,9.293346050942416,Cruzado,0
+517745864,VC30D,Não apresentava lesões,Sem lesão,0,-1,0,1.0,1.0,1.0,10.79579575,0.91430415,14921.03508,6,F,Cruzado,12,9.610594263919998,Cruzado,-1
+817841420,VC30D,Não apresentava lesões,Sem lesão,0,-1,0,1.0,0.0,1.0,23.94653833,0.894130752,4761.267472,5,F,Cruzado,8,8.468479193466086,Cruzado,-1
+717717148,VC30D,Lesão,Linfonodos retrofaríngeos - Rejeição fígado,1,1,4,1.0,0.0,0.0,11.43016343,0.908386774,2115.775428,6,F,Cruzado,26,7.657649185205638,Cruzado,1
+419698178,VC30D,Não apresentava lesões,Sem lesão,0,-1,0,1.0,0.0,1.0,28.34120947,0.90703945,8.996343057,3,M,Angus,5,2.302219331811579,Otra,-1
+819743210,VC30D,Lesão caseosa,Linfonodos retrofaríngeos - Rejeição fígado,1,1,4,1.0,1.0,1.0,26.68933134,0.936619665,3373.715357,3,F,Alentejana,15,8.124066261083259,Alentejana,1
+219945235,VC30D,Não apresentava lesões,Sem lesão,0,-1,0,1.0,0.0,0.0,29.47321576,0.921046211,1.603731984,2,F,Cruzado,6,0.9569457943180264,Cruzado,-1
+819648218,VC30D,Lesão,Linfonodos retrofaríngeos (inicial),1,0,1,1.0,0.0,1.0,20.82634789,0.923179755,6002.931315,3,F,Cruzado,16,8.7001697528145,Cruzado,0
+118811831,VC30D,Não apresentava lesões,Sem lesão,0,-1,0,1.0,1.0,1.0,14.56340551,0.913226985,486.47516,5,F,Cruzado,13,6.189239335293557,Cruzado,-1
+617197318,VC30D,Não apresentava lesões,Sem lesão,0,-1,0,1.0,1.0,1.0,53.26128868,0.969342562,195.1903587,4,F,Alentejana,12,5.279085405760746,Alentejana,-1
+816725573,VC30D,Lesão,Rejeição fígado,1,0,4,1.0,1.0,1.0,15.41507268,0.935535474,774.227692,8,F,Cruzado,11,6.653156782332748,Cruzado,0
+615442731,VC30D,Lesão,Pulmonar + linfodonos mediastinicos + brônquicos + rejeição de fígado,1,1,5,1.0,1.0,1.0,21.65466221,0.916518496,1195.83188,10,F,Cruzado,5,7.08743324456597,Cruzado,1
+19052712,VC30D,Lesão caseosa,Linfonodos brônquicos ,1,0,2,1.0,1.0,1.0,10.70809263,0.919837353,1516.241383,3,M,Cruzado,9,7.324649085345742,Cruzado,0
+817273202,VC30D,Lesão,Linfonodos retrofaríngeos (fase inicial),1,0,1,1.0,1.0,1.0,17.37412058,0.935552472,3930.648251,8,F,Cruzado,10,8.276814019228826,Cruzado,0
+15424075,VC30D,Lesão caseosa,Linfonodos brônquicos ,1,0,2,1.0,1.0,1.0,37.91454365,0.967834603,102.8336645,10,F,Cruzado,11,4.642790238960411,Cruzado,0
+716464987,VC30D,Lesão,Rejeição fígado,1,0,4,1.0,1.0,1.0,14.40205315,0.929498281,1183.838976,8,F,Cruzado,9,7.077362159103929,Cruzado,0
+818811286,VC30D,Lesão,Linfonodos parotídeos,1,0,1,1.0,1.0,1.0,41.92732558,0.957531791,4475.195313,5,F,Cruzado,11,8.406528704091963,Cruzado,0
+122424411,VC30D,Lesão caseosa,Linfonodos mediastinicos,1,0,2,1.0,1.0,1.0,49.49129404,0.968136313,1174.156789,2,F,Cruzado,8,7.069156855123084,Cruzado,0
+219648292,VC30D,Lesão,Rejeição fígado,1,0,4,1.0,1.0,0.0,22.55610534,0.917423895,429.2062282,3,F,Cruzado,6,6.06426469418118,Cruzado,0
+16707238,VC30D,Lesão,Linfonodos retrofaríngeos,1,0,1,1.0,1.0,1.0,4.49802664,0.920140101,593.6751487,7,F,Alentejana,8,6.388015287879091,Alentejana,0
+516087378,VC30D,Lesão caseosa,Linfonodos brônquicos ,1,0,2,1.0,1.0,1.0,33.09508481,0.923461088,836.2446256,8,F,Cruzado,12,6.73011629254353,Cruzado,0
+816087367,VC30D,Lesão caseosa purulenta,Linfonodos mediastinicos,1,0,2,1.0,1.0,1.0,15.20692287,0.972358814,1140.685812,8,F,Cruzado,9,7.040261231522644,Cruzado,0
+316087374,VC30D,Sem informação,Sem lesão,0,-1,0,1.0,1.0,1.0,26.84344819,0.973869447,415.8999144,8,F,Alentejana,11,6.032846179561712,Alentejana,-1
+816493064,VC30D,Sem informação,Sem lesão,0,-1,0,1.0,1.0,1.0,50.85542362,0.913499901,278.0882885,8,F,Cruzado,17,5.631528177999375,Cruzado,-1
+819052713,VC30D,Sem informação,Sem lesão,0,-1,0,1.0,0.0,1.0,25.35365183,0.962099121,3.930594126,1,F,Cruzado,11,1.5954594931667911,Cruzado,-1
+716087353,VC30D,Sem informação,Sem lesão,0,-1,0,1.0,0.0,1.0,8.475382424,0.943685847,6399.739583,8,F,Cruzado,12,8.76416882251499,Cruzado,-1
+418349675,VC30D,Sem informação,Sem lesão,0,-1,0,1.0,0.0,1.0,20.84584767,0.964212289,255.3763117,5,F,Alentejana,8,5.546646332712952,Alentejana,-1
+616048050,VC30D,Sem informação,Sem lesão,0,-1,0,1.0,1.0,1.0,14.40205315,0.95213224,160.3836448,9,F,Alentejana,6,5.083784417367946,Alentejana,-1
+15490797,VC30D,Abcessos,Rejeição Miudeza total,1,1,5,1.0,0.0,0.0,21.77274103,0.926479685,173.3606205,10,F,Cruzado,7,5.161125686092926,Cruzado,1
+714429792,VC30D,Abcessos,Rejeição Pulmão,1,0,4,1.0,0.0,0.0,24.01173757,0.912896182,2137.421054,12,F,Cruzado,14,7.667823010455253,Cruzado,0
+714426543,VC30D,Abcessos,Rejeição Pulmão,1,0,4,1.0,0.0,0.0,20.12187992,0.934931755,209.9204383,13,F,Cruzado,8,5.351480992699177,Cruzado,0
+719742674,VC30D,Abcessos,Rejeição Miudeza total,1,1,5,1.0,0.0,0.0,0.07783927,0.824149503,178.8210485,4,F,Alentejana,6,5.191962181370458,Alentejana,1
+917842561,VC30D,Abcessos,Rejeição Miudeza total,1,1,5,,0.0,0.0,13.75149817,0.950927942,,7,F,Cruzado,6,,Cruzado,1
+819743192,VC30D,Abcessos,Rejeição Miudeza total,1,1,5,1.0,0.0,0.0,23.49507386,0.929195908,1344.166266,4,F,Alentejana,10,7.204272902239749,Alentejana,1
+817997214,VC94C,Abcessos,Rejeição Miudeza total,1,1,5,1.0,0.0,0.0,14.75883337,0.902022381,3087.869202,4,F,Cruzado,11,8.03556034886896,Cruzado,1
+423370751,VC94C,Abcessos,Rejeição Miudeza total,1,1,5,1.0,0.0,0.0,15.04242852,0.883313956,0.332177572,5,F,Alentejana,5,0.28681487554521307,Alentejana,1
+823610343,VC94C,Abcessos,Rejeição Miudeza total,1,1,5,0.0,0.0,0.0,18.7485005,0.863083681,0.0,15,F,Cruzado,7,0.0,Cruzado,1
+23513247,VC94C,Abcessos,Rejeição Miudeza total,1,1,5,1.0,0.0,1.0,17.1861835,0.94911868,2.357925386,3,F,Cruzado,10,1.2113233386348115,Cruzado,1
+519462707,VC94C,Abcessos,Rejeição Rim + Miudeza total,1,1,5,1.0,0.0,0.0,14.87971351,0.974770211,501.5952255,15,F,Cruzado,12,6.219785125462301,Cruzado,1
+164949397,VC94C,Abcessos,Rejeição Rim + Miudeza total,1,1,5,1.0,0.0,0.0,13.45560538,1.002500005,658.2364268,7,F,Alentejana,5,6.491082236170476,Alentejana,1
+122357610,VC94C,Abcessos,Rejeição muidezas total,1,1,5,0.0,0.0,1.0,14.26236016,0.962708543,0.0,9,F,Alentejana,5,0.0,Alentejana,1
+719648209,VC94C,Não apresentava lesões,Sem lesões,0,-1,0,1.0,0.0,1.0,28.71362964,0.687023432,616.1053107,5,F,Cruzado,5,6.425039691188548,Cruzado,-1
+865084268,VC94C,Abcessos,Linfonodos mediatinicos + miudezas,1,1,5,1.0,0.0,1.0,19.40870954,0.687023432,23.92136549,5,F,Alentejana,9,3.2157254873618846,Alentejana,1
+17783293,VC94C,Abcessos,Linfonodos mediatinicos,1,0,2,1.0,0.0,0.0,21.54539082,0.933939226,2736.539491,10,F,Alentejana,5,7.914814799956776,Alentejana,0
+464949503,VC94C,Abcessos,Rejeição muidezas total,1,1,5,1.0,1.0,1.0,24.61418519,0.937956356,118.0521837,7,F,Cruzado,5,4.779561915477792,Cruzado,1
+618837664,VC94C,Abcessos,Rejeição muidezas total,1,1,5,1.0,0.0,0.0,18.90850669,0.965909346,91.86479649,2,F,Cruzado,7,4.531144634176181,Cruzado,1
+115966718,VC94C,Abcessos,Rejeição muidezas total,1,1,5,1.0,0.0,1.0,18.46935571,0.934744826,78.08511761,1,M,Cruzado,23,4.370524710548443,Cruzado,1
+119945221,VC94C,Abcessos,Rejeição muidezas total,1,1,5,1.0,0.0,1.0,22.23113782,0.940392256,2079.205334,1,F,Cruzado,6,7.640221886092267,Cruzado,1
+919698208,VC94C,Lesão,Linfonodos mediatinicos,1,0,2,1.0,0.0,0.0,21.88557864,0.973746496,252.433738,5,F,Cruzado,13,5.535102400303137,Cruzado,0
+316464984,VC94C,Lesão caseosa / nódulo no pulmão de grandes dimensões e varios granulomas no omento e intestino,Linfonodos mediatinicos + Pulmonar + omento + intestino + rejeição muidezas total,1,1,5,1.0,1.0,1.0,20.02645021,0.9455015,33.11621997,14,F,Cruzado,9,3.529772930143897,Cruzado,1
+118349440,VA32D,Não apresentava lesões,Sem lesões,0,-1,0,1.0,0.0,0.0,13.31005515,0.923156602,308.4238953,6,M,Alentejana,11,5.734712166249236,Alentejana,-1
+22437655,VA32D,Lesão caseo-calcária,Linfonodos brônquicos ,1,0,2,0.0,0.0,0.0,5.500531787,0.857655668,0.0,3,F,Cruzado,7,0.0,Cruzado,0
+922314749,VA32D,Não apresentava lesões,Sem lesões,0,-1,0,0.0,0.0,0.0,8.70898957,0.940666596,0.0,3,F,Cruzado,10,0.0,Cruzado,-1
+923998066,VA32D,Não apresentava lesões,Sem lesões,0,-1,0,,0.0,0.0,16.5442693,0.951232175,,1,F,Cruzado,10,,Cruzado,-1
+222437654,VA32D,Não apresentava lesões,Sem lesões,0,-1,0,1.0,0.0,0.0,2.3613554,0.871539471,52.78640468,3,F,Cruzado,8,3.9850207341181902,Cruzado,-1
+722437666,VA32D,Não apresentava lesões,Sem lesões,0,-1,0,0.0,0.0,1.0,12.81291666,0.928290843,0.0,3,F,Cruzado,28,0.0,Cruzado,-1
+923998061,VA32D,Brônquicos - lesão caseosa,Linfonodos brônquicos e linfonodos mediastinicos,1,1,2,1.0,0.0,0.0,21.71362136,0.91319786,2.422371751,1,M,Cruzado,9,1.2303338051628034,Cruzado,1
+18349417,VA32D,Não apresentava lesões,Sem lesões,0,-1,0,1.0,0.0,0.0,18.34508656,0.976889806,91.48694609,6,F,Cruzado,7,4.527067511208191,Cruzado,-1
+723998062,VA32D,Lesão calcificada,Linfonodos brônquicos e linfonodos mediastinicos,1,1,2,0.0,0.0,0.0,12.88278309,0.930401305,0.0,1,M,Cruzado,13,0.0,Cruzado,1
+64598178,VA32D,Não apresentava lesões,Sem lesões,0,-1,0,1.0,0.0,0.0,11.03319853,0.948813473,4249.106484,15,F,Alentejana,11,8.354699316663414,Alentejana,-1
+423035537,VA32D,Não apresentava lesões,Sem lesões,0,-1,0,0.0,0.0,0.0,28.65356236,0.873352377,0.0,2,F,Cruzado,13,0.0,Cruzado,-1
+316022462,VA32D,Não apresentava lesões,Sem lesões,0,-1,0,,0.0,0.0,14.87971351,0.947609859,,9,F,Alentejana,16,,Alentejana,-1
+522437662,VA32D,Lesão caseosa,Linfonodos brônquicos ,1,0,2,0.0,0.0,0.0,3.107612592,0.852823991,,3,F,Cruzado,17,,Cruzado,0
+522314746,VA32D,Lesão caseo-calcária,Linfonodos brônquicos ,1,0,2,0.0,0.0,0.0,0.926723322,0.835016443,0.0,3,F,Cruzado,32,0.0,Cruzado,0
+422437677,VA32D,Não apresentava lesões,Sem lesões,0,-1,0,,0.0,0.0,11.15385052,0.937632071,,2,F,Cruzado,21,,Cruzado,-1
+222437659,VA32D,Não apresentava lesões,Sem lesões,0,-1,0,,0.0,0.0,3.236976697,0.87938452,,3,F,Cruzado,8,,Cruzado,-1
+718487779,VA32D,Lesão,Linfonodos brônquicos ,1,0,2,1.0,0.0,0.0,10.53481805,0.935534137,40.52086069,6,F,Alentejana,18,3.726195968170718,Alentejana,0
+165088694,VA32D,Lesão caseosa,Linfonodos brônquicos ,1,0,2,1.0,0.0,0.0,25.63090311,0.944890699,17.07124679,13,F,Alentejana,10,2.8943221000102857,Alentejana,0
+222437678,VA32D,Não apresentava lesões,Sem lesões,0,-1,0,0.0,0.0,0.0,4.947111031,0.871842424,0.0,2,F,Cruzado,14,0.0,Cruzado,-1
+123998060,VA32D,Não apresentava lesões,Sem lesões,0,-1,0,0.0,0.0,0.0,8.158821839,0.913464257,0.0,1,F,Cruzado,13,0.0,Cruzado,-1
+318838363,WZ72B,Lesão caseosa,Linfonodos retrofaríngeos,1,0,1,,0.0,0.0,14.24626513,0.954552162,,7,F,Cruzado,8,,Cruzado,0
+518363807,WZ72B,Lesão caseosa,Linfonodos retrofaríngeos,1,0,1,1.0,0.0,0.0,13.63978345,0.935837501,557.6429265,8,F,Cruzado,13,6.325510497139267,Cruzado,0
+518873851,WZ72B,Lesão caseosa,Linfonodos retrofaríngeos,1,0,1,1.0,0.0,0.0,6.837107596,0.959079294,680.3888622,7,F,Cruzado,9,6.524133159628059,Cruzado,0
+618838371,WZ72B,Não apresentava lesões,Sem lesões,0,-1,0,1.0,0.0,0.0,32.55955181,0.964211685,73.02238714,7,F,Cruzado,0,4.304367576370443,Cruzado,-1
+418282538,WZ72B,Não apresentava lesões,Sem lesões,0,-1,0,1.0,0.0,0.0,23.81667049,0.975682366,45.13955974,8,M,Cruzado,27,3.8316707108708687,Cruzado,-1
+218873862,WZ72B,Lesão caseosa,Linfonodos parotídeos,1,0,1,1.0,0.0,0.0,19.95841335,0.995551432,437.5925816,7,F,Cruzado,10,6.083570922024058,Cruzado,0
+618873865,WZ72B,Lesão caseosa,Linfonodos retrofaríngeos,1,0,1,,0.0,0.0,20.12187992,0.9497224,,7,F,Cruzado,12,,Cruzado,0
+619453740,WZ72B,Não apresentava lesões,Sem lesões,0,-1,0,1.0,0.0,0.0,28.11335629,0.941268352,2022.943694,6,F,Cruzado,14,7.612803210850435,Cruzado,-1
+223210607,WZ72B,Lesão caseosa,Linfonodos retrofaríngeos,1,0,1,1.0,0.0,0.0,11.46128433,0.962097903,10.71831399,3,F,Cruzado,11,2.46115291629185,Cruzado,0
+822049873,WZ72B,Lesão caseosa,Linfonodos retrofaríngeos,1,0,1,1.0,1.0,1.0,6.987457639,0.925272246,4088.698022,5,F,Cruzado,9,8.316226413059205,Cruzado,0
+719453735,WZ72B,Lesão caseosa,Linfonodos retrofaríngeos,1,0,1,,0.0,1.0,26.55308073,0.934624026,,6,F,Cruzado,20,,Cruzado,0
+318873852,WZ72B,Lesão caseosa,Linfonodos retrofaríngeos,1,0,1,1.0,0.0,0.0,9.022331448,0.925272246,1531.136417,7,F,Cruzado,7,7.334418391375427,Cruzado,0

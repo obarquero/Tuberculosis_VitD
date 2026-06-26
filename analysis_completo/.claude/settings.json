@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import nbformat; print\\('nbformat', nbformat.__version__\\)\")",
+      "PowerShell(Get-Command python3, py, conda, jupyter 2>$null)",
+      "PowerShell(python3 -c \"import nbformat; print\\('nbformat', nbformat.__version__\\)\")",
+      "PowerShell(py -c \"import nbformat; print\\('nbformat', nbformat.__version__\\)\")",
+      "Read(//c/Users/obarquero/AppData/Local/Programs/**)",
+      "PowerShell(& \"C:\\\\Users\\\\obarquero\\\\anaconda3\\\\python.exe\" -c \"import nbformat; print\\('nbformat', nbformat.__version__\\)\")",
+      "PowerShell(& \"C:\\\\Users\\\\obarquero\\\\anaconda3\\\\python.exe\" \"C:\\\\Users\\\\OBARQU~1\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Users-obarquero-SynologyDrive-Drive-Documentos-Research-Biology-research-Tuberculosis-Helio-2026-analysis-completo\\\\c32f2ca8-e950-456f-aa99-c94e8710a80d\\\\scratchpad\\\\gen_notebook.py\")",
+      "Bash(python -c ' *)"
+    ]
+  }
+}
