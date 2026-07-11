@@ -13,6 +13,7 @@ scipy==1.15.3
 scikit-learn==1.8.0
 xgboost==3.2.0
 statsmodels==0.14.6          # E-value (logit ajustado), tests
+imbalanced-learn==0.14.2     # BalancedRandomForestClassifier (notebook 03d2 imblearn)
 
 # --- Interpretabilidad ---
 shap==0.51.0                 # SHAP global/local (TreeExplainer)
